@@ -81,6 +81,13 @@ footer {
 
 .portfolio-card {
 width: 85%;
+margin: auto;
+}
+
+.folio-row {
+  justify-content: center;
+  align-content: center;
+  text-align: center;
 }
 
 .page-title {
