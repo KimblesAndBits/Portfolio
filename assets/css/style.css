@@ -36,6 +36,10 @@ footer {
   background-color: #E1DDDB;
 }
 
+.about-me-info {
+  margin-top: 2rem;
+}
+
 .nothing-here {
   justify-content: center;
   margin: .05rem;
@@ -54,13 +58,20 @@ footer {
   color: #EF6C33;
 }
 
+.folio-link:active {
+  color: rgb(12, 94, 96);
+}
+
 .contact-card {
-  width: 22rem;
+  width: 100%;
   margin: auto;
-  margin-top: 4rem;
   text-align: center;
   background: #ABDFF1;
   border-color: #ABDFF1;
+}
+
+.email-me {
+  margin-top: 2rem;
 }
 
 .card-title {
@@ -82,6 +93,8 @@ footer {
 .portfolio-card {
 width: 85%;
 margin: auto;
+margin-top: 2rem;
+background: #ABDFF1;
 }
 
 .folio-row {
