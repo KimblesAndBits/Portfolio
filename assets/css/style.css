@@ -77,20 +77,10 @@ footer {
 .port-pic {
   width: 100%;
   height: auto;
-  margin: auto;
 }
 
-.port-desc {
-  position: relative;
-  top: -25%;
-  padding: 0px;
-  margin: 0px;
-  background-color: #EF6C33;
-  color: #0C4A60;
-  width: inherit;
-  text-align: center;
-  height: auto;
-  font-size: 100%;
+.portfolio-card {
+width: 85%;
 }
 
 .page-title {
