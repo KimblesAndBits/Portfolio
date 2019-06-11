@@ -41,14 +41,30 @@ footer {
   margin: .05rem;
 }
 
-.my-button {
-  border-color: rgb(171, 223, 241);
-  background-color: #ABDFF1;
+.folio-link {
+  color: #0C4A60;
+  font-size: 2rem;
 }
 
-.my-button:hover {
-  border-color: rgb(141, 223, 241);
-  background-color: rgb(141, 223, 241);
+.folio-link:hover {
+  color: rgb(12, 94, 96);
+}
+
+.folio-link:visited {
+  color: #EF6C33;
+}
+
+.contact-card {
+  width: 22rem;
+  margin: auto;
+  margin-top: 4rem;
+  text-align: center;
+  background: #ABDFF1;
+  border-color: #ABDFF1;
+}
+
+.card-title {
+  border-bottom: 2px solid #0C4A60;
 }
 
 .email-me {
